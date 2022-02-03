@@ -1,0 +1,1 @@
+App to navigate in the Falkland Islands countryside where there is not access to the internet. The Map registers points of interest and gives information about conservation and history. Later this will be developed to include augmented reality information signs, by using QR codes around the Island.
